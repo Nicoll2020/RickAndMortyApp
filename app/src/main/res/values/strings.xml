@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practica6WebService</string>
+    <string name="title_home">Lista De Personajes</string>
+    <string name="title_dashboard">Mis Personajes Favoritos</string>
+    <string name="title_example">RICK</string>
+    <string name="vote_average_example">name</string>
+    <string name="title_list">Lista</string>
+    <string name="title_favorite">Favoritos</string>
+    <string name="release_date_example">Release Date: 2023-04-12</string>
+    <string name="summary_example">"Three siblings find an ancient vinyl that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable."</string>
+    <string name="detail">Detalle</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="episode_list">Episodios en los que aparece</string>
+</resources>
